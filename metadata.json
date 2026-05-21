@@ -1,0 +1,6 @@
+{
+  "name": "La Bàn Tập Trung",
+  "description": "Ứng dụng hỗ trợ tập trung cho người ADHD với nhạc nền, Mind Forest, mô phỏng sóng não EEG và công cụ bẻ nhỏ công việc.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
